@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996897445405",
+    "project_id": "bookchew-6810c",
+    "storage_bucket": "bookchew-6810c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996897445405:android:0126a69df0db10c69fd8f4",
+        "android_client_info": {
+          "package_name": "com.bookchew.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtuvNz-pj2uvp9VCfpD6PE5BlCvDdLCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
